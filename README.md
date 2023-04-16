@@ -1,5 +1,9 @@
 ![HTML](https://img.shields.io/badge/Language-HTML-red)![CSS](https://img.shields.io/badge/Language-CSS-blue)![JavaScript](https://img.shields.io/badge/Language-JavaScript-orange)
 
+![react](https://img.shields.io/badge/Frontend-React.js-9cf)
+
+![node](https://img.shields.io/badge/Backend-Node.js-green)![express](https://img.shields.io/badge/Backend-Express.js-yellow)
+
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
 
 ### Welcome 👋
